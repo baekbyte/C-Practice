@@ -6,11 +6,10 @@ int main(void) {
   scanf("%d", &N);
 
   printf("reverse: ");
-  do{
+  while(N>0){
     printf("%d", N%10);
     N= N/10;
-  }while(N);
-
+  }
   printf("");
   return 0;
 }
