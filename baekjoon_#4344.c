@@ -35,6 +35,9 @@ int main(void) {
       }
     }
     printf("%.3f%%\n", (double)count*100/N);
+
+    sum= 0;
+    count = 0;
   }
 
 
