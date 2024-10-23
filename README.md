@@ -1,2 +1,2 @@
 # files
-lesson files: data structure
+Data structure
