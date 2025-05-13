@@ -9,4 +9,4 @@ int main(void) {
   for(i=0; i<n; i++){
     printf("%c ", c);
   }
-  retur
+  return
